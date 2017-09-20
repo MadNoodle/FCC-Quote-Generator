@@ -1,0 +1,25 @@
+
+.quoteBox{
+  color:black;
+  text-align:center;
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  margin:200px;
+  padding: 100px 40px 100px 40px;
+  background-color:#d5c2de !important;
+}
+
+.btn-fancy{
+
+  text-align: center;
+  color:#fff;
+  border : 2px solid #fff;
+  margin-left: auto;
+  margin-right: auto;
+  padding:10px 20px 10px 20px;
+  cursor: pointer;
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size:1.25em;
+  text-transform: uppercase;
+}
